@@ -9,7 +9,7 @@
     "react": "^16.13.1",
     "react-container-dimensions": "^1.4.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -36,6 +36,6 @@
     "aphrodite": "^2.4.0",
     "jquery": "^3.5.1",
     "react-grid-layout": "^0.18.3",
-    "simple-flexbox": "^2.3.1"
+    "simple-flexbox": "^2.3.3"
   }
 }
